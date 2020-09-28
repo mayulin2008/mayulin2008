@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![知乎徽章](https://img.shields.io/badge/dynamic/json?color=0084ff&logo=zhihu&label=%E7%94%9F%E5%91%BD%E5%A4%A7%E9%99%86&query=%24.data.totalSubs&suffix=%E5%85%B3%E6%B3%A8%E8%80%85&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dsheng-ming-da-lu "欢迎浏览我的知乎")](https://www.zhihu.com/people/sheng-ming-da-lu)
+
 <!--
 **mayulin2008/mayulin2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
